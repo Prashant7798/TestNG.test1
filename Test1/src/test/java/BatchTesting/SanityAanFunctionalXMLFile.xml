@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanityAndFunctionalTest">
+	<suite-files>
+		<suite-file
+			path="E:\WORKSPACE\Test1\src\test\java\BatchTesting\FunctionTestSuite.xml" />
+		"
+		<suite-file
+			path="E:\WORKSPACE\Test1\src\test\java\BatchTesting\SanityTestSuit.xml" />
+	</suite-files>
+</suite>
